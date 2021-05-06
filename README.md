@@ -1,2 +1,2 @@
 # Exercicios
-Exercícios de aprendizado
+Exercícios básicos de javascript
